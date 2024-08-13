@@ -35,7 +35,7 @@ Este é um simples jogo de Pedra, Papel e Tesoura implementado em Python, onde v
 2. Execute o script Python.
 
    ```bash
-   python pedra_papel_tesoura.py
+   python3 main.py
    ```
 
 3. Siga as instruções na tela para jogar!
@@ -66,20 +66,6 @@ Este é um simples jogo de Pedra, Papel e Tesoura implementado em Python, onde v
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
-```
 
-### Explicação:
-
-- **Requisitos**: Menciona a versão mínima do Python necessária.
-- **Instalação**: Explica como clonar o repositório, criar um ambiente virtual, e verificar a instalação do Python.
-- **Executando o Jogo**: Fornece instruções para executar o script Python.
-- **Como Jogar**: Dá uma visão geral de como interagir com o jogo.
-- **Estrutura do Código**: Descreve brevemente o que faz cada parte principal do código.
-- **Contribuições e Licença**: Seção padrão para projetos que aceitam contribuições e mencionam a licença utilizada.
-
-```
-````
